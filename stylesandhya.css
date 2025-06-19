@@ -1,0 +1,103 @@
+html,
+body {
+    height: 100%;
+    margin: 0;
+    font-size: 16px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 400;
+    line-height: 1.8em;
+    color: #d11e1e;
+}
+.pimg1 {
+    background-image: url(https://img.freepik.com/free-photo/cascade-boat-clean-china-natural-rural_1417-1356.jpg?t=st=1745512568~exp=1745516168~hmac=c522267d50705d5fd07cf41e9059be3977cf5c0c18da580f1996a2d422d700ee&w=1380);
+    min-height: 100%;
+}
+.pimg2 {
+    background-image: url(https://static.vecteezy.com/system/resources/previews/032/242/170/non_2x/beautiful-waterfall-flowers-water-nature-waterfall-hd-wallpaper-ai-generated-free-photo.jpg);
+    min-height: 100%;
+}
+.pimg3 {
+    background-image: url(https://th.bing.com/th/id/R.a2f74d540b7fdd92b4dc5a3a59b51e85?rik=utB%2fBsCOJZGPMA&riu=http%3a%2f%2fgetwallpapers.com%2fwallpaper%2ffull%2f7%2f5%2f1%2f1294993-best-nature-hd-wallpapers-1920x1080-cell-phone.jpg&ehk=CBbbmMaak2mX44XG1iENZwKKS36bjwgie%2btLJVGdxgc%3d&risl=&pid=ImgRaw&r=0);
+    min-height: 100%;
+}
+
+.pimg4 {
+    background-image: url(https://th.bing.com/th/id/R.80858f7eb80838496fae5c7291915062?rik=Ih3uUlMVe%2bSsRg&riu=http%3a%2f%2fwebneel.com%2fdaily%2fsites%2fdefault%2ffiles%2fimages%2fdaily%2f10-2013%2f3-nature-photography-cherry-tree.jpg&ehk=h3zrnX9YFjlErxfnOSLnyZeP0QMbrretASlUSZLoiBQ%3d&risl=&pid=ImgRaw&r=0);
+    min-height: 100%;
+
+}
+.pimg5 {
+    background-image: url(https://wallpaperaccess.com/full/393735.jpg);
+    min-height: 100%;
+
+}
+.pimg6 {
+    background-image: url(https://th.bing.com/th/id/R.988765ea6a04e18c93976515ea50ca62?rik=zMWCxyxiW9uR9g&riu=http%3a%2f%2fgetwallpapers.com%2fwallpaper%2ffull%2fe%2fa%2fc%2f460547.jpg&ehk=NJuTqIMzv8w%2f7FnCvK1LlzzpH0Jn0fYJ0fUH%2bhDw31E%3d&risl=&pid=ImgRaw&r=0);
+    min-height: 100%;
+
+}
+
+
+.pimg1,
+.pimg2,
+.pimg3,
+.pimg4,
+.pimg5,
+.pimg6 {
+    position: relative;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    
+}   
+.ptext {
+    position: absolute;
+    top: 50%;
+    width: 100%;
+    text-align: center;
+    color: rgb(35, 33, 33);
+    font-size: 27px;
+    letter-spacing: 8px;
+    text-transform: uppercase;
+}
+.textBg {
+    background-color: #161717;
+    color: #fff;
+    font-size: xx-large;
+}
+.textBg {
+    background-color: black;
+    color: #fff;
+    font-size: xx-large;
+}
+.textBg {
+    background-color: black;
+    color: #fff;
+    font-size: xx-large;
+}
+.textBg {
+    background-color: #161717;
+    color: #fff;
+    font-size: xx-large;
+}
+.title1 {
+    background: #161717;
+    color: #fff;
+    padding: 20px;
+}
+.section {
+    background: #313534;
+    padding: 50px 80px;
+    text-align: center;
+} 
+.section-light {
+    background-color: rgb(236, 236, 243);
+    color: #666;
+}
+
+
+.section-dark {
+    background-color: #282e34;
+    color: #ddd;
+}
